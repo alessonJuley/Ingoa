@@ -7,7 +7,7 @@
 
 <br>
 <p>
-  Ingoa is a web app designed to preserve and share traditional Māori names and their meanings. It serves as a resource for parents and individuals interested in Māori names, promoting their use within the community. I'm proud that this project not only helped me learn TypeScript and other technologies but also deepened my understanding of New Zealand, Māori words, and culture. Key features of the app include:
+  Ingoa is a web app designed to preserve and share traditional Māori names and their meanings. It serves as a resource for parents and individuals interested in Māori names as well as promoting their use within the community. I'm proud that this project not only helped me learn TypeScript and other technologies but also deepened my understanding of New Zealand, Māori words, and culture. Key features of the app include:
 </p>
 
 **Basic features**
