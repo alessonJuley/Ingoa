@@ -28,3 +28,5 @@
 * Use of AI technologies in your project
 * Containerise project using docker
 * Unit testing components
+
+**Screenshots**
